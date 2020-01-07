@@ -1,6 +1,5 @@
 # Ants
 Project #4 for CS61A - Ants - October 2019  
-</n><b> IN PROGRESS </b> 
 
 In this project, I aim to create a tower defense game called Ants Vs. SomeBees. 
 
